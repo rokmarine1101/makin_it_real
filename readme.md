@@ -1,3 +1,3 @@
-Crawling, \n
+Crawling,
 collecting data,
 insights and directions
